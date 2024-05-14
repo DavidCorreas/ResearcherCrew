@@ -1,0 +1,16 @@
+research_innovation_center_task:
+  description: >
+    Use a search tool to explore whether Lugo includes an innovation center.
+    The goal is to gather preliminary information on the presence and general scope of the innovation center now a days in 2024. Search also for finacial and types of startups, if any.
+    The search should be conducted in Spanish to accurately reflect local data and resources.
+  expected_output: >
+    A report confirming the existence of an innovation center at Lugo, including any basic information available about its focus areas (e.g., AI, financing options).
+
+analyze_innovation_center_task:
+  description: >
+    Take the identified innovation center's details at Lugo, and conduct a thorough analysis of its offerings.
+    Focus on specifics such as support for artificial intelligence development, types of financial aid provided, and other specialized services or resources.
+    The analysis should consider data sourced from Spanish language and must be explained in Spanish.
+  expected_output: >
+    A detailed document analyzing the innovation center's specific functions and offerings at Lugo, including sectors supported (AI, tech startups, etc.), types of financial assistance available, and additional relevant services in Spanish.
+
